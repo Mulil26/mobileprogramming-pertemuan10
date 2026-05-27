@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168471617872",
+    "project_id": "mulil26-mobileprogramming-p10",
+    "storage_bucket": "mulil26-mobileprogramming-p10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168471617872:android:c62551f4d9a51ecc864c55",
+        "android_client_info": {
+          "package_name": "com.example.mobileprogramming_pertemuan10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wobq-TgPu1phR_EZNb1bmieiZFVwmEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
