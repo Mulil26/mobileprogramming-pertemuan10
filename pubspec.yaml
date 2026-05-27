@@ -39,6 +39,10 @@ dependencies:
   google_sign_in: ^7.2.0
   email_validator: ^3.0.0
   fluttertoast: ^9.1.0
+  intl: ^0.20.2
+  cloud_firestore: ^6.4.1
+  firebase_storage: ^13.4.1
+  firebase_messaging: ^16.2.2
 
 dev_dependencies:
   flutter_test:
